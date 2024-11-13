@@ -1,5 +1,5 @@
 
-# Python Flow Control Practice Notebook
+# Python Practice Notebook
 
 ## Table of Contents
 - [Introduction](#introduction)
