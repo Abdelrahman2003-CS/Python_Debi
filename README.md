@@ -6,8 +6,6 @@
 - [Exercises Covered](#exercises-covered)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
