@@ -54,7 +54,7 @@ To run this notebook, you need to have Python and Jupyter Notebook installed on 
    ```bash
    jupyter notebook
    ```
-5. Open the `Abdelrahman.ipynb` file to start practicing.
+5. Open the `Practice.ipynb` file to start practicing.
 
 ## Usage
 
